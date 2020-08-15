@@ -1,2 +1,2 @@
 # RemoveSponsoredAds
-Remove Facebook Sponsored Ads
+Removes Facebook Sponsored Ads
